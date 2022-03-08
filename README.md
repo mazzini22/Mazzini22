@@ -7,9 +7,9 @@ Hi there 👋 I'm Breno | Olá, eu sou o Breno
 - ⚡ Fun fact: 
 
 <div align="center">
-  <a href="https://github.com/mazzin22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzin22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzin22&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mazzini22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzini22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzini22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
