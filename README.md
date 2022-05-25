@@ -1,7 +1,7 @@
 Hi there 👋 I'm Breno | Olá, eu sou o Breno
 
 - 🌱 I’m currently in the first semester of my college (Analysis and Systems Development)
-- 👯 I’m lerning c, c#, HTMl and CSS
+- 👯 I’m lerning c, c# and python
 - 🤔 I’m looking for help with python
 - 📫 How to reach me: mazziibreno@gmail.com | 
 - ⚡ Fun fact: 
