@@ -1,10 +1,10 @@
-Hi there 👋 I'm Breno | Olá, eu sou o Breno
+Hello there 👋 I'm Breno | Olá, eu sou o Breno
 
-- 🌱 I’m currently in the first semester of my college (Analysis and Systems Development)
-- 👯 I’m lerning c#, python, HTML, CSS and Java script
-- 🤔 I’m looking for help with python
-- 📫 How to reach me: mazziibreno@gmail.com | 
-- ⚡ Fun fact: 
+- 🌱 I’m currently in the second semester of my college (Analysis and Systems Development)
+- 👯 I’m lerning HTML, CSS and Java script
+- 🤔 I’m looking for help with python, java script and big data
+- 📫 How to reach me: bmazzinidev@gmail.com | 
+-
 
 <div align="center">
   <a href="https://github.com/mazzini22">
