@@ -23,6 +23,6 @@ Hello there 👋 I'm Breno | Olá, eu sou o Breno
 </div>
 <br/>
 <div align="center">
-  <a href = "mailto:mazzinibreno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bmazzinidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
